@@ -488,6 +488,7 @@
 				9B018E381D3DEF6A00872D97 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9B018E391D3DEF6A00872D97 /* Build configuration list for PBXNativeTarget "weatherTests" */ = {
 			isa = XCConfigurationList;
@@ -496,6 +497,7 @@
 				9B018E3B1D3DEF6A00872D97 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9B018E3C1D3DEF6A00872D97 /* Build configuration list for PBXNativeTarget "weatherUITests" */ = {
 			isa = XCConfigurationList;
@@ -504,6 +506,7 @@
 				9B018E3E1D3DEF6A00872D97 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
